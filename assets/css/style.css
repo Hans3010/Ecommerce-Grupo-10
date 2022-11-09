@@ -6,7 +6,7 @@
   --header-height: 3.5rem;
 
   /*========== Colors ==========*/
-  --first-color:  rgb(19, 62, 253);
+  --first-color:  rgba(10, 47, 212, 0.842);
   --button-color: hsl(0, 0%, 17%);
   --button-color-alt: hsl(0, 0%, 21%);
   --card-color: hsl(0, 0%, 90%);
